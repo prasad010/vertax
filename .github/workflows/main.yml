@@ -15,4 +15,4 @@ jobs:
     runs-on: [ubuntu-latset]
     steps:
       - name: print
-        run: echo "Checking out code..
+        run: echo "Checking out code.."
