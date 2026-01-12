@@ -1,1 +1,1 @@
-Hi This is durgaprasad Thota
+echo "Hello This project related to Githun Actions workflow"
