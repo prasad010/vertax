@@ -3,6 +3,7 @@ on:
   push: 
     branches:
       - main 
+      - master
       - hotfix/*
       - release/*
   pull_request:
