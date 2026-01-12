@@ -2,7 +2,7 @@ name: java application cicd github actions workflow
 on: 
   push: 
     branches:
-      - main 
+      #- main 
       - master
       - hotfix/*
       - release/*
